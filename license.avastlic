@@ -2,12 +2,12 @@
 WalletKeys=MRT7LY-S4AVX2-4K4536
 CustomerName=Nitheesh Krishna
 CustomerCompany=
-CertificateCount=15
+CertificateCount=1
 
 [Certificate0]
 LicenseId=d1bcb5bd-8c62-4570-953b-b47bd992f33b
 CorrelationIds=avast-internet-sec-trial-1m-1s1501945777208
-ProductName=Avast Internet Security Trial - 1 user, 1 month
+ProductName=Avast Internet Security Trial - 4 users, 1111 month
 LicensingSchemaId=avast-internet-sec-trial-1m-1s_1
 Feature=AV_AIS
 LicenseFamily=AvConsumer
@@ -60,7 +60,7 @@ UpdateValidThru=1504537777
 [Certificate1]
 LicenseId=301dfc60-8641-40f1-80cd-5a3542424a0b
 CorrelationIds=mig_cb8d55b3-8473-4812-b1d6-0da64dd165da;mig_5e3f4673-ce30-4460-9e6d-587b200b4480;mig_9bc76c30-271f-414c-8503-02d977dd0484;mig_2dede7d1-b082-43ee-82c5-41bf2653f7a8;mig_b3ed8674-beb3-4d2c-9e6b-8d41a3a727e4;mig_f74ac190-b60e-4462-bb82-838faf87fa8e;mig_c86e2eff-1da7-4efd-a0ce-8ef897ee3161;UPN_363E0B98C454153E6E87586F0914B1AA;UPN_12DFC465CD9B8EC7264B570B2475A518;UPN_9EF72D59F128F5ACA77033CF3A42CE5F;UPN_36C87824267B734A75F3B63845C368AE;UPN_DD67947643105A05A67D794F30448CEF;UPN_AFB91990227728A93AB50F059FD376C1;UPN_E38751C1C797EBE107556AFA016289B0;UPN_853F51A25CB2FDFDFD30A7FF3DE7AAE2
-ProductName=Avast Premier - 1 user, 1 year
+ProductName=Avast Premier - 4 users, 5 years
 LicensingSchemaId=avast-premier-1y-1s_1
 Feature=AV_APR
 LicenseFamily=AvConsumer
@@ -122,7 +122,7 @@ UpdateValidThru=2146678789
 [Certificate2]
 LicenseId=395a03bb-5e1e-455f-8161-8a8cc43b6fed
 CorrelationIds=avast-premier-trial-1s1m1489842992687
-ProductName=Avast Premier Trial - 1 seat, 1 month
+ProductName=Avast Premier Trial - 4 seats, 1111 months
 LicensingSchemaId=avast-premier-trial-1s1m_1s1m
 Feature=AV_APR
 LicenseFamily=AvConsumer
@@ -181,7 +181,7 @@ UpdateValidThru=1492434992
 [Certificate3]
 LicenseId=2b69ed89-cc72-4cab-8eb9-3b47286e71c7
 CorrelationIds=PUR_E6F8C4E91FFAC5585027F3F8F9517C66
-ProductName=Avast Cleanup - 1 user, 1 year
+ProductName=Avast Cleanup - 4 users, 5 years
 LicensingSchemaId=avast-cleanup-1y-1s_1
 Feature=GF_SRV
 LicenseFamily=GrimeFighter
@@ -213,7 +213,7 @@ UpdateValidThru=1519428344
 [Certificate4]
 LicenseId=3d462c6b-d0e2-4450-af06-ed086515abcf
 CorrelationIds=avast-free-1s1m1489348796620;avast-free-1s1y1489348867761;ald_1498724851824
-ProductName=Avast Free Antivirus - 1 seat, 1 year
+ProductName=Avast Free Antivirus - 4 seats, 5 years
 LicensingSchemaId=avast-free-1s1y_1s1y
 Feature=AV_FREE
 LicenseFamily=AvConsumer
@@ -242,7 +242,7 @@ UpdateValidThru=1552420867
 [Certificate5]
 LicenseId=95592adc-ecc5-4fdc-9b1c-54a49e5e758d
 CorrelationIds=PUR_157083F1D0ADA396B5C4BED13AA317AF
-ProductName=Avast SecureLine for PC - 1 user, 1 year
+ProductName=Avast SecureLine for PC - 4 users, 5 years
 LicensingSchemaId=avast-secureline-for-pc-1y-1s_1
 Feature=AV_VPN
 LicenseFamily=SecureLine
@@ -280,7 +280,7 @@ OriginalValue=1.0
 [Certificate6]
 LicenseId=c4affa8b-26e8-4e14-b5a9-01c6e53f2138
 CorrelationIds=PUR_FAC4851A7F3F7C55EFB1FC0D2EF879FA
-ProductName=Avast Cleanup - 1 user, 1 year
+ProductName=Avast Cleanup - 4 user, 5 years
 LicensingSchemaId=avast-cleanup-1y-1s_1
 Feature=GF_SRV
 LicenseFamily=GrimeFighter
@@ -312,7 +312,7 @@ UpdateValidThru=1519495625
 [Certificate7]
 LicenseId=0a72ac0d-2cd2-42d2-beab-69517d0c5284
 CorrelationIds=avast-premier-trial-1s1m1500346526388
-ProductName=Avast Premier Trial - 1 seat, 1 month
+ProductName=Avast Premier Trial - 4 seats, 1111 months
 LicensingSchemaId=avast-premier-trial-1s1m_1s1m
 Feature=AV_APR
 LicenseFamily=AvConsumer
@@ -371,7 +371,7 @@ UpdateValidThru=1502938526
 [Certificate8]
 LicenseId=41c5da40-64df-4600-9686-ed4ff02f2861
 CorrelationIds=avast-pro-antivirus-trial-1m-1s1496523583104
-ProductName=Avast Pro Antivirus Trial - 1 user, 1 month
+ProductName=Avast Pro Antivirus Trial - 4 users, 1111 months
 LicensingSchemaId=avast-pro-antivirus-trial-1m-1s_1
 Feature=AV_PRO
 LicenseFamily=AvConsumer
@@ -412,7 +412,7 @@ UpdateValidThru=1499115583
 [Certificate9]
 LicenseId=4d68a47a-bcd7-4278-a425-873b8e9ef845
 CorrelationIds=PUR_139D52FAC6D5A778896E9AC953850C7C
-ProductName=Avast Cleanup - 1 user, 1 year
+ProductName=Avast Cleanup - 4 user, 5 years
 LicensingSchemaId=avast-cleanup-1y-1s_1
 Feature=GF_SRV
 LicenseFamily=GrimeFighter
@@ -444,7 +444,7 @@ UpdateValidThru=1519405452
 [Certificate10]
 LicenseId=56e9580a-8289-40d4-8e01-bca5aeff45e8
 CorrelationIds=PUR_CED08D1898D9CA72150BA0B136AC7363
-ProductName=Avast Cleanup - 1 user, 3 years
+ProductName=Avast Cleanup - 4 users, 5 years
 LicensingSchemaId=avast-cleanup-3y-1s_1
 Feature=GF_SRV
 LicenseFamily=GrimeFighter
@@ -476,7 +476,7 @@ UpdateValidThru=1582591887
 [Certificate11]
 LicenseId=408ac94e-fe78-475b-85b0-18008f6adc9c
 CorrelationIds=PUR_8A37008AF731072B27ED939EE95CAB6B
-ProductName=Avast Cleanup - 1 user, 1 year
+ProductName=Avast Cleanup - 4 users, 5 years
 LicensingSchemaId=avast-cleanup-1y-1s_1
 Feature=GF_SRV
 LicenseFamily=GrimeFighter
@@ -508,7 +508,7 @@ UpdateValidThru=1519469919
 [Certificate12]
 LicenseId=6edee645-9fa2-4305-838e-1c112f14730e
 CorrelationIds=avast-free-1s1m1489659216089
-ProductName=Avast Free Antivirus - 1 seat, 1 month
+ProductName=Avast Free Antivirus - 4 seats, 1111 months
 LicensingSchemaId=avast-free-1s1m_1s1m
 Feature=AV_FREE
 LicenseFamily=AvConsumer
@@ -569,7 +569,7 @@ UpdateValidThru=1582646421
 [Certificate14]
 LicenseId=17dec3ce-33be-45e9-896f-c0189cf93b3d
 CorrelationIds=gpa.3328-2168-7042-4142915043087868751503092010692
-ProductName=Avast SecureLine for Android Trial - 1 user, 14 days
+ProductName=Avast SecureLine for Android Trial - 4 user, 11111 days
 LicensingSchemaId=avast-secureline-for-android-trial-14d-1s_1
 Feature=AV_VPN_ANDROID
 LicenseFamily=SecureLine
